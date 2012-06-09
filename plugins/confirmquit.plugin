@@ -1,0 +1,10 @@
+[Core]
+Name = Confirm Quit
+Module = confirmquit
+
+[Documentation]
+Author = Micah Carrick
+Version = 1.0
+Website = http://www.micahcarrick.com/python-gtk-plugins-with-yapsy.html
+Description = Prompts the user to confirm before quitting.
+

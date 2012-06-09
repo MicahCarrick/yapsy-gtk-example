@@ -1,0 +1,10 @@
+[Core]
+Name = Statusbar
+Module = statusbar
+
+[Documentation]
+Author = Micah Carrick
+Version = 1.0
+Website = http://www.micahcarrick.com/python-gtk-plugins-with-yapsy.html
+Description = Adds a statusbar to the window with the text "Hello World"
+
